@@ -1,10 +1,40 @@
 {
   "project_info": {
     "project_number": "200910022871",
+    "firebase_url": "https://proyectitobd-default-rtdb.firebaseio.com",
     "project_id": "proyectitobd",
     "storage_bucket": "proyectitobd.appspot.com"
   },
   "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200910022871:android:4964e28aff0573c5a66892",
+        "android_client_info": {
+          "package_name": "com.example.notatres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200910022871-kvo6g99o9bu372h6ilf78ar10km1lsn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Dm0aAinomMCPVTpUslUphMNB8H7lzOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200910022871-kvo6g99o9bu372h6ilf78ar10km1lsn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
     {
       "client_info": {
         "mobilesdk_app_id": "1:200910022871:android:f26dfc0b5641dd30a66892",
