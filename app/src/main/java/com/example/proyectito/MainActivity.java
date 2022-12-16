@@ -7,11 +7,14 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 
 public class MainActivity extends AppCompatActivity {
 
-    DatabaseReference l;
+    //DatabaseReference mdatabaserefence = FirebaseDatabase.getInstance();
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
